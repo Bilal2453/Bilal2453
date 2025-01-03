@@ -1,16 +1,16 @@
-## Hi there 👋
+## About me
 
-<!--
-**Bilal2453/Bilal2453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a hobbist programmer from Syria who has always been fascinated by computers and technology, my main focus is to learn more about this field while having fun!
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may contact me using my private email address: `belal2453 at gmail dot com`.
+
+## Stats
+
+[![GitHub stats-Dark](https://github-readme-stats-seven-psi-12.vercel.app/api?username=bilal2453&count_private=true&show_icons=true&border_radius=8&theme=shades-of-purple#gh-dark-mode-only)](https://github.com/Bilal2453#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-seven-psi-12.vercel.app/api?username=bilal2453&count_private=true&show_icons=true&border_radius=8&theme=solarized-light#gh-light-mode-only)](https://github.com/Bilal2453#gh-light-mode-only)
+
+[![Top Langs dark](https://github-readme-stats-seven-psi-12.vercel.app/api/top-langs/?username=bilal2453&theme=shades-of-purple&border_radius=8&layout=pie&exclude_repo=test-github-actions)](https://github.com/bilal2453#gh-dark-mode-only)
+[![Top Langs light](https://github-readme-stats-seven-psi-12.vercel.app/api/top-langs/?username=bilal2453&theme=solarized-light&border_radius=8&layout=pie&exclude_repo=test-github-actions)](https://github.com/bilal2453#gh-light-mode-only)
+
