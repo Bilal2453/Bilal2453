@@ -1,6 +1,6 @@
 ## About me
 
-Hello! I'm a hobbist programmer from Syria who has always been fascinated by computers and technology, my main focus is to learn more about this field while having fun!
+Hello! I'm a hobbyist programmer from Syria who has always been fascinated by computers and technology, my main focus is to learn more about this field while having fun!
 
 ## Contact
 
